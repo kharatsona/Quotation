@@ -10,7 +10,7 @@
   <div class="login-container">
     <form id="loginForm" class="login-form">
       <h2>Login</h2>
-      <label for="username">Username</label>
+      <label for="username">Sandip</label>
       <input id="username" type="text" placeholder="Enter username" required>
       <label for="password">Password</label>
       <input id="password" type="password" placeholder="Enter password" required>
@@ -21,3 +21,4 @@
   <script src="script1.js"></script>
 </body>
 </html>
+
